@@ -3,6 +3,14 @@ MotorsportReg Credit Creator
 
 Python 3 code to create credits for multiple users across multiple events. The initial reason for creating this concept was that a credit was offered to all leaders of our autocross organization and MSR does not offer - as far as I'm aware - a way to create bulk credits.
 
+Prerequisites
+-------------
+
+These steps must be performed prior to executing the application. Google, ChatGPT, and StackOverflow can be used to help accomplish these steps.
+
+* Install Python 3
+* Configure a Python environment with the dependencies listed in `requirements.txt`
+
 Usage
 -----
 
