@@ -1,0 +1,16 @@
+GET {{baseUrl}}/members/{{memberId}}/credits.json
+X-Organization-Id: {{orgId}}
+Authorization: Basic {{username}} {{password}}
+
+###
+
+GET {{baseUrl}}/events/{{event_id}}/attendees.json
+X-Organization-Id: {{orgId}}
+Authorization: Basic {{username}} {{password}}
+
+###
+
+GET {{baseUrl}}/events/{{event_id}}/attendees/{{attendeeId}}.json
+X-Organization-Id: {{orgId}}
+Authorization: Basic {{username}} {{password}}
+
